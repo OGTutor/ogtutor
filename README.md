@@ -26,9 +26,11 @@ I'm a frontend developer but I'm also interested in machine learning and look at
  - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
+ ### ⚙️ &nbsp;Some Stats
+ 
  <a href="https://github.com/OGTutor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&theme=radical&layout=compact" />
 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me 
