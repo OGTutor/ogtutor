@@ -1,5 +1,7 @@
-[![OGTutor is typing now...](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Frontend;Developer;Frontend+Developer)](https://git.io/typing-svg)
-
+<div align="center">
+[![OGTutor is typing now...](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=FE428E&center=true&width=435&lines=Frontend;Developer;Frontend+Developer)](https://git.io/typing-svg)
+</div>
+    
 ### Hi there! I'm Danil 👋
 
 I'm a frontend developer but I'm also interested in machine learning and look at languages like python and rust!
