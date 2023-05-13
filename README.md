@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![OGTutor is typing now...](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=900&size=20&duration=3000&pause=1000&color=FE428E&center=true&width=400&height=30&lines=Frontend;Developer;Frontend+Developer)
+![OGTutor is typing now...](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=400&size=20&duration=3000&pause=1000&color=FE428E&center=true&width=400&height=30&lines=Frontend;Developer;Frontend+Developer)
 </div>
     
 ### Hi there! I'm Danil 👋
