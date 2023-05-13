@@ -1,3 +1,7 @@
+<div align="center"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Frontend;Developer;Frontend+Developer)](https://git.io/typing-svg)
+</div>
+
 ### Hi there! I'm Danil 👋
 
 I'm a frontend developer but I'm also interested in machine learning and look at languages like python and rust!
@@ -6,7 +10,7 @@ I'm a frontend developer but I'm also interested in machine learning and look at
 
 - 💻 &nbsp;
     ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+    ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=000)
   
 - 🌐 &nbsp;
     ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
