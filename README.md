@@ -1,5 +1,5 @@
 <div align="center"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Frontend;Developer;Frontend+Developer)](https://git.io/typing-svg)
+[![OGTutor is typing now...](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Frontend;Developer;Frontend+Developer)](https://git.io/typing-svg)
 </div>
 
 ### Hi there! I'm Danil 👋
