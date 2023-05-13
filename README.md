@@ -33,10 +33,17 @@ I'm a frontend developer but I'm also interested in machine learning and look at
  
  ### ⚙️ &nbsp;Some Stats
  
- <a href="https://github.com/OGTutor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&theme=radical&layout=compact" />
-</a>
+ <table border="0px" align="center"><tr><td>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&theme=radical&show_icons=true" />
+    </div>
+</td>
+<td>
+     <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&theme=radical&layout=compact" />
+    </div>
+</td>
+</table>
 
 ### 🤝🏻 &nbsp;Connect with Me 
 
