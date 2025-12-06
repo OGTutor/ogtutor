@@ -1,56 +1,96 @@
-<div align="center"> 
+# 🚀 Danil — Frontend Developer & Web Engineering Enthusiast
 
-![OGTutor is typing now...](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&weight=400&size=20&duration=3000&pause=1000&color=FE428E&center=true&width=400&height=30&lines=Frontend;Developer;Frontend+Developer)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FFA3&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Engineer;Always+Learning)
+
 </div>
-    
-### Hi there! I'm Danil 👋
 
-I'm a frontend developer but I'm also interested in machine learning and look at languages like python and rust!
+✨ I build interfaces that ship to production, debug until they behave, and explore ML, Rust, and systems thinking.
 
-### 🛠 &nbsp;Tech Stack
+---
 
-- 💻 &nbsp;
-    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=000)
+## 🧠 About Me
+
+🔥 Passionate about modern UI development, performance, developer experience, and clean architecture.  
+📌 Currently learning ML fundamentals and experimenting with Rust & systems thinking.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
+
+### ⚙️ Tools & Infra
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visualstudiocode)
+
+### 🔌 Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+
+---
+
+## 🔥 What I'm Doing Now
+
+✔ Building production-grade frontends  
+✔ Studying machine learning  
+✔ Experimenting with Rust tooling  
+✔ Growing toward full-stack & systems engineering  
+
+---
+
+## 🚀 Featured Projects
+
+🧩 *Revolve Finance — DeFi multi-chain wallet & staking dashboards*  
+> Stack: Next.js, Zustand, Wagmi, TronWeb, Docker
+
+📊 *Stakeflow — Automated staking analytics UI*  
+> Stack: React, SCSS modules, animated charts  
+
+💡 *Crypto Swap Landing — Cross-chain swap UI concept*  
+> Stack: Next.js, Tailwind, dynamic modals
+
+---
+
+## ⚙️ Stats & Activity
+
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=ogtutor&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+## 💬 Connect With Me
+
+<div align="center">
   
-- 🌐 &nbsp;
-    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-    ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind%20CSS)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danil%20Chernenko-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danil-chernenko-106348276/)  
+[![Email](https://img.shields.io/badge/Email-game.gt.tutor@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:game.gt.tutor@gmail.com)
 
-- 🛢 &nbsp;
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+</div>
 
-- ⚙️ &nbsp;
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
- - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- 
- ### ⚙️ &nbsp;Some Stats
- 
- <table border="0px" align="center"><tr><td>
-    <div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&theme=radical&show_icons=true" />
-    </div>
-</td>
-<td>
-     <div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&theme=radical&layout=compact" />
-    </div>
-</td>
-</table>
+---
 
-### 🤝🏻 &nbsp;Connect with Me 
+## 🧩 Motto
 
-<p align="center">
-<a href="https://www.linkedin.com/in/danil-chernenko-106348276/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danil%20Chernenko-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:game.gt.tutor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-game.gt.tutor@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+> Always shipping. Always learning. Focus forward.
 
+⭐️ Feel free to explore my repos or reach out!
 
-⭐️ From [ogtutor](https://github.com/OGTutor)
