@@ -52,19 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🧩 *Revolve Finance — DeFi multi-chain wallet & staking dashboards*  
-> Stack: Next.js, Zustand, Wagmi, TronWeb, Docker
-
-📊 *Stakeflow — Automated staking analytics UI*  
-> Stack: React, SCSS modules, animated charts  
-
-💡 *Crypto Swap Landing — Cross-chain swap UI concept*  
-> Stack: Next.js, Tailwind, dynamic modals
-
----
-
 ## ⚙️ Stats & Activity
 
 <div align="center">
