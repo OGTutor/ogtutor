@@ -1,83 +1,177 @@
-# 🚀 Danil — Frontend Developer & Web Engineering Enthusiast
+# 🚀 Danil Chernenko — Full-Stack & Web3 Engineer
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FFA3&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Engineer;Always+Learning)
-
-</div>
-
-✨ I build interfaces that ship to production, debug until they behave, and explore ML, Rust, and systems thinking.
-
----
-
-## 🧠 About Me
-
-🔥 Passionate about modern UI development, performance, developer experience, and clean architecture.  
-📌 Currently learning ML fundamentals and experimenting with Rust & systems thinking.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
-
-### ⚙️ Tools & Infra
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visualstudiocode)
-
-### 🔌 Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-
----
-
-## 🔥 What I'm Doing Now
-
-✔ Building production-grade frontends  
-✔ Studying machine learning  
-✔ Experimenting with Rust tooling  
-✔ Growing toward full-stack & systems engineering  
-
----
-
-## ⚙️ Stats & Activity
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ogtutor&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&layout=compact&theme=radical"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Web3+Developer;Rust+%7C+TypeScript+%7C+Systems;Production-Grade+Architecture;Always+Shipping+🚀" />
 
 </div>
 
 ---
 
-## 💬 Connect With Me
+# 🧠 Engineering Profile
+
+Full-stack engineer focused on building production-grade applications, Web3 systems, and scalable infrastructure.
+
+I design and ship complete systems — frontend, backend, database, and infrastructure — with emphasis on performance, reliability, and clean architecture.
+
+Core domains:
+
+• Full-stack web applications  
+• Web3 & crypto infrastructure  
+• Backend systems in Rust  
+• High-performance frontend architecture  
+• Production deployments & infrastructure  
+
+---
+
+# ⚡ Core Stack
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danil%20Chernenko-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danil-chernenko-106348276/)  
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
+
+---
+
+### Backend & Systems
+
+![Rust](https://img.shields.io/badge/Rust-Axum-black?style=for-the-badge&logo=rust)
+![Axum](https://img.shields.io/badge/Axum-Web%20Framework-black?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-black?style=for-the-badge&logo=postgresql)
+
+---
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-black?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-black?style=for-the-badge&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-Server-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
+
+---
+
+### Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-black?style=for-the-badge&logo=ethereum)
+![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-black?style=for-the-badge&logo=solidity)
+![EVM](https://img.shields.io/badge/EVM-Compatible-black?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-Development-black?style=for-the-badge)
+
+</div>
+
+---
+
+# 🧩 Engineering Focus
+
+```
+Frontend Architecture     ████████████████
+Backend Systems           ███████████████
+Web3 Development          ██████████████
+Rust Systems              ████████████
+Infrastructure            ████████████
+Database Design           ███████████
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ogtutor&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Repository Language Analysis
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ogtutor&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ogtutor&theme=radical"/>
+
+</div>
+
+---
+
+# ⚙️ Production Stack
+
+```
+Frontend:
+TypeScript
+Next.js
+React
+
+Backend:
+Rust
+Axum
+PostgreSQL
+
+Infrastructure:
+Docker
+Nginx
+Linux
+
+Web3:
+Solidity
+EVM
+JSON-RPC
+Wallet integrations
+```
+
+---
+
+# 🧠 Engineering Principles
+
+• Production-ready code  
+• Performance-focused architecture  
+• Clean and scalable systems  
+• Reliability and stability  
+• Systems thinking  
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danil%20Chernenko-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danil-chernenko-106348276/)
+
 [![Email](https://img.shields.io/badge/Email-game.gt.tutor@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:game.gt.tutor@gmail.com)
 
 </div>
 
 ---
 
-## 🧩 Motto
+# ⚡ Motto
 
-> Always shipping. Always learning. Focus forward.
-
-⭐️ Feel free to explore my repos or reach out!
-
+```
+Build systems. Ship fast. Scale forever.
+```
