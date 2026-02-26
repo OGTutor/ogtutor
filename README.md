@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Web3+Developer;Rust+%7C+TypeScript+%7C+Systems;Production-Grade+Architecture;Always+Shipping+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Web3+Developer;Rust+%7C+TypeScript+%7C+Systems;Production-Grade+Architecture;Always+Shipping" />
 
 </div>
 
@@ -33,7 +33,7 @@ Core domains:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -91,9 +91,9 @@ Database Design           ███████████
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -103,7 +103,7 @@ Database Design           ███████████
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ogtutor&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ogtutor&theme=radical&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
