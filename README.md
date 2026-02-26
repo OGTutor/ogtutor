@@ -91,9 +91,14 @@ Database Design           ███████████
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogtutor&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&cache_seconds=86400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ogtutor&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ogtutor&theme=radical&utcOffset=2" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtutor&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogtutor&theme=radical" />
 
 </div>
 
